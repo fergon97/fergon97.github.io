@@ -5,32 +5,14 @@ body {
   padding: 0;
 }
 
-#info-container {
-  text-align: center;
-  margin: 50px auto;
-  padding: 20px;
-  background-color: #02006d;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  border-radius: 10px;
-  max-width: 400px;
+.container {
   color: aliceblue;
 }
 
-#profile-image {
-  max-width: 100%;
-  border-radius: 50%;
-}
-
-#social-links {
+.education-section {
+  background-color: #007bff; /* Color azul */
+  color: #fff; /* Texto blanco */
+  padding: 20px;
+  border-radius: 10px;
   margin-top: 20px;
-}
-
-.social-link {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-.social-link img {
-  max-width: 30px;
-  max-height: 30px;
 }
