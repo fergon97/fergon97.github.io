@@ -10,8 +10,15 @@ body {
 }
 
 .education-section {
-  background-color: #007bff; /* Color azul */
-  color: #fff; /* Texto blanco */
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.formation-section {
+  background-color: #ff5100;
+  color: #000000;
   padding: 20px;
   border-radius: 10px;
   margin-top: 20px;
